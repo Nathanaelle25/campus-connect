@@ -1,6 +1,6 @@
 # CampusConnect
 Öğrenci: NATHANAELLE 
-Okul No: 2408****150
+Okul No: 24080410150
 
 Üniversite etkinlik platformu — NestJS + Go polyglot backend.
 
